@@ -1,0 +1,35 @@
+==========[ INFO 1 ]==========
+
+Kalau Error Dari Luh Jangan Chat Gw :(
+Kalau Gak Tau Mending Estrak Ulang
+
+Paham ?
+
+
+==========[ INFO 2 ]==========
+
+🗣️ : Bang Fiturnya Kok Error Sih ?
+
+👤 : Cukup lapor di komen yt, Gausah ke wa, ganggu soalnya
+
+🗣️ : Ouh 
+
+🗣️ : Btw ini kok pas saya run error ? 
+
+👤 : Kalau  Gak Tau Estrak Ulang Aja Bang :)
+
+🗣️ : Support heroku? 
+
+👤 : Support, Cba aja || Build pack cari sendiri
+
+🗣️ : Bang kok ada yg di enc? 
+
+👤 : Mau no enc bayar sini 40 Gapake nego² lgsung transfer
+
+🗣️ : Bang error module not found? 
+
+👤 : pkg i yarn && pkg i git && yarn
+
+==========[ INFO 3 ]==========
+Ubah owner && Nama di config.js
+Kalo masih ada yg gak keubah cari di command.js
